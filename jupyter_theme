@@ -1,1 +1,1 @@
-jt -t onedork -f ptmono -fs 10 -ofs 10 -cellw 100% -nfs 11 -tfs 9
+jt -t monokai -f ptmono -fs 10 -ofs 9 -cellw 100% -nfs 11 -tfs 9 -lineh 130
