@@ -54,6 +54,9 @@ set softtabstop=4 " 让 vim 把连续数量的空格视为一个制表符
 
 set ai
 set hlsearch
+set encoding=utf-8
+set fileencoding=utf-8
+
 " <Ctrl-l> redraws the screen and removes any search highlighting.
 nnoremap <silent> <C-l> :nohl<CR><C-l>
 set pastetoggle=<F2>
